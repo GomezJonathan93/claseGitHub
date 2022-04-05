@@ -1,0 +1,14 @@
+media queries (responsive)
+
+mobile first
+propone comenzar a trabajar primero en las pantallas mas pequeñas, en celular y tal. Y de ahi escalamos hasta desktop.
+
+Break Points
+Hacen rederencia a distintos tamaños de pantalla.
+320px
+480px telefonos modo horizontal
+600 tablets pequeñas (viejo)
+768
+1023 tablets
+1024px ipad
+1200px panoramicas

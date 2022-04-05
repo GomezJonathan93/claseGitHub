@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* Dos unidades de medida para responsive:
+- em
+- rem
+1 em es igual a 16px a menos que modifiquemos la medida de referencia. La unidad de medida em toma el valor definido en el contenedor.
+*/
+body{
+    font-size: 30px;
+}
+div{
+    font-size: 60px;
+}
+header h1{
+    font-size: 1em;
+}
+/* De esta forma. 1em es igual a 60px. Si el div no estuviese, seria 30 px, ya que depende del contenedor inmediato. */
+div p{
+    font-size: 0.5em;
+}
+/* Unidad de medida rem*/
+h2{
+    font-size: 1rem;
+}
+main p{
+    font-size: 1rem;
+}
